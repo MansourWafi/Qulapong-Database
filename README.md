@@ -1,7 +1,7 @@
-# Qulapong-Database
+# Cafe-Database
 MySQL database for QuLapong café: ERD, tables, sample data, and SQL queries  ((By using dumb data only !!!!!!))
 
-# QuLapong Database System
+# Cafe Database System
 
 A MySQL relational database for a café/restaurant that manages owners, staff, customers, orders, payments, products, and ingredient supply.
 
